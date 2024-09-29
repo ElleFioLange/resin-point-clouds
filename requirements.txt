@@ -1,0 +1,8 @@
+sentence_transformers==2.3.1 # 2.4.0 had a bug (7/16/24)
+pca
+numpy<=2.0 # 2.0 caused issues with other packages (7/16/24)
+scipy
+pandas
+trimesh
+manifold3d
+ipykernel
